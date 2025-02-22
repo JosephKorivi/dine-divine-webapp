@@ -1,4 +1,4 @@
-# DINE DIVINE - Restaurant Landing Page
+# DINE DIVINE - Restaurant Landing Page | JOSEPH KORIVI
 
 ## Overview
 **DINE DIVINE** is a visually stunning **WebApp** designed in **Figma**, offering a top-tier **UI/UX** experience with full responsiveness. This landing page provides users with a seamless interface to explore restaurant menus, scroll through offers, and place food orders effortlessly. The application includes both **Dark Mode** and **Light Mode** to enhance user experience based on preference.
